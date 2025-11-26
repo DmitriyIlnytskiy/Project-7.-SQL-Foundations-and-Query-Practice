@@ -1,0 +1,2 @@
+-- Part 1: Schema creation
+-- Replace with your tables

@@ -1,0 +1,1 @@
+-- Part 2: Basic query and EXPLAIN
